@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ali Furkan Çağlayan</h1>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=alifurkancaglayan&show_icons=true&locale=en" alt="alifurkancaglayan" /></p>
+<p>&nbsp;<img align="center-left" src="https://github-readme-stats.vercel.app/api?username=alifurkancaglayan&show_icons=true&locale=en" alt="alifurkancaglayan" /></p>
 
 
 
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=alifurkancaglayan&show_icons=true&locale=en&layout=compact" alt="alifurkancaglayan" /></p>
+<p><img align="center-right" src="https://github-readme-stats.vercel.app/api/top-langs?username=alifurkancaglayan&show_icons=true&locale=en&layout=compact" alt="alifurkancaglayan" /></p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/afcaglayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="afcaglayan" height="30" width="40" /></a>

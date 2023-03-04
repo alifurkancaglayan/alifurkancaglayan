@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ali Furkan Çağlayan</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alifurkancaglayan&label=Profile%20views&color=0e75b6&style=flat" alt="alifurkancaglayan" /> </p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=alifurkancaglayan&show_icons=true&locale=en" alt="alifurkancaglayan" /></p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=alifurkancaglayan&label=Profile%20views&color=0e75b6&style=flat" alt="alifurkancaglayan" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alifurkancaglayan&show_icons=true&locale=en" alt="alifurkancaglayan" /></p>
+
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alifurkancaglayan&show_icons=true&locale=en&layout=compact" alt="alifurkancaglayan" /></p>
